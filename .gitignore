@@ -1,0 +1,10 @@
+# Ignore Angular cache files
+frontend/angular-material-ui-crud-app/.angular/cache/
+
+# Ignore all .pack files
+*.pack
+
+# Ignore node_modules and build files
+node_modules/
+dist/
+backend/spring-boot3-postgresql-crud-app/target/
